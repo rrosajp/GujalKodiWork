@@ -1,4 +1,4 @@
-[B]Version 2.0.58 - 03 Mar 2026[/B]
+[B]Version 2.0.59 - 16 Mar 2026[/B]
 - Base Code Changes
     - None
 
@@ -6,9 +6,11 @@
     - None
  
 - Scrapers Fixed/Updated:
-    - movierulz
+    - filmlinks4u
+    - filmlinks4u pro
+    - gomovies
+    - hindilinks4u
     - playdesi
-    - tamilgun
     - tamilyogi
 
 - Scrapers Removed:
@@ -17,6 +19,7 @@
 - Broken Scrapers
     - apnetv (cloudflare captcha)
     - watchapne (cloudflare captcha)
+    - cinevez
     - skytamil
     - tamiltvshows
     - tamildhool
